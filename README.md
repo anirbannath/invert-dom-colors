@@ -1,5 +1,7 @@
 # Invert Colors
 
+[Demo](https://anirbannath.github.io/invert-dom-colors/)
+
 This is a small library which can be used for prototyping your application for inverse dark mode coloring.
 
 ## How to use
